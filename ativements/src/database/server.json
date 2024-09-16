@@ -1,0 +1,71 @@
+{
+  "locais": [
+    {
+      "id": "0fb02eb2-e068-4990-9d16-3af30d888f4c",
+      "nome": "Sala 01"
+    },
+    {
+      "id": "1793487b-1664-4dd4-81b9-edb3f4c063ac",
+      "nome": "Sala01"
+    },
+    {
+      "id": "e4b3a303-98c4-4dfd-97dc-415321598e4f",
+      "nome": "124"
+    }
+  ],
+  "ativos": [
+    {
+      "id": "61c16af4-c6cc-4bc4-89b5-e6952557fe13",
+      "nome": "Cadeira Gamer",
+      "numero": "2",
+      "local": "0fb02eb2-e068-4990-9d16-3af30d888f4c",
+      "dataRegistro": "12/09/2024, 14:51:55",
+      "usuario_id": "8f55b205-760f-4845-a610-0a9ab5623a1e",
+      "status": true
+    },
+    {
+      "id": "bd30b90e-70bf-4fe3-8322-c4a798a78051",
+      "nome": "AtivoJ",
+      "numero": "1111111",
+      "local": "1793487b-1664-4dd4-81b9-edb3f4c063ac",
+      "dataRegistro": "12/09/2024, 16:39:40",
+      "usuario_id": "45d365e6-a8cd-403c-9bb2-1670d2e3aeeb",
+      "status": true
+    },
+    {
+      "id": "08f08597-9464-4c49-9e4a-487cb0720b6e",
+      "nome": "124",
+      "numero": "1234566",
+      "local": "e4b3a303-98c4-4dfd-97dc-415321598e4f",
+      "dataRegistro": "13/09/2024, 14:50:27",
+      "usuario_id": "3b5d49af-e5f8-465d-919e-06dc19814ad8",
+      "status": true
+    },
+    {
+      "id": "171ce2d0-59b6-47fb-9bc5-554112bbd82c",
+      "nome": "124",
+      "numero": "1234568",
+      "local": "e4b3a303-98c4-4dfd-97dc-415321598e4f",
+      "dataRegistro": "13/09/2024, 14:50:38",
+      "usuario_id": "3b5d49af-e5f8-465d-919e-06dc19814ad8",
+      "status": true
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "3b5d49af-e5f8-465d-919e-06dc19814ad8",
+      "login": "s",
+      "imagem": "https://avatars.githubusercontent.com/u/1969638?v=4"
+    },
+    {
+      "id": "8f55b205-760f-4845-a610-0a9ab5623a1e",
+      "login": "henriquebaptista",
+      "imagem": "https://avatars.githubusercontent.com/u/125309965?v=4"
+    },
+    {
+      "id": "45d365e6-a8cd-403c-9bb2-1670d2e3aeeb",
+      "login": "joao-henrike",
+      "imagem": "https://avatars.githubusercontent.com/u/133373332?v=4"
+    }
+  ]
+}
